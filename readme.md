@@ -10,4 +10,4 @@ Enjoy :)
 The folder could *potentially* have some light NSFW content in it. So maybe don't open it at work.
 
 ## Contributing
-I'm very open to pull requests! After you've added files, just run `./order img/` and the folder will be automatically renamed (courtesy of nil). Try and stick to the general theme - apart from that, go wild!
+I'm very open to pull requests! After you've added files, just run `./order img/` and the folder will be automatically renamed (courtesy of [@ncfavier](https://github.com/ncfavier)). Try and stick to the general theme - apart from that, go wild!
