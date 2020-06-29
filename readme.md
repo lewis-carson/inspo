@@ -3,7 +3,9 @@ lew's big ass inspo repo™ is an attempt to create a folder of everything, from
 
 I might implement deduping after this folder gets above 500 files but for now it's done manually.
 
-Enjoy :)
+Enjoy!
+
+PS: The goal for this repo is to make it as large as possible: I think that quantity over quality is better when you need to be inspired :)
 
 ## NSFW
 
