@@ -11,5 +11,5 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Order the folder
-      run: ./order img/
+      run: bash ./order img/
 
